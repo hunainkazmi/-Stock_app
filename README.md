@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ... this is the stock tracker app for that 
+* ... this is the stock tracker app for the real time app chat 
