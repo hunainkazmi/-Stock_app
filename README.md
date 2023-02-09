@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ... this is the stock tracker app for the real time app chat
+now we are in the assignment1
