@@ -25,3 +25,5 @@ Things you may want to cover:
 now we are in the assignment1
 we added the devise gem in that 
 this is the deviseuser addition in that 
+
+Add the bootstrap styling in the stock-tracker app 
